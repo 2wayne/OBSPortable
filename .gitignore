@@ -1,3 +1,8 @@
+# Base app
+App/obs-studio/bin
+App/obs-studio/data
+App/obs-studio/obs-plugins
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
