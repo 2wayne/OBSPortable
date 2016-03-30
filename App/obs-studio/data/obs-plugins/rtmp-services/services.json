@@ -58,6 +58,10 @@
                     "url": "rtmp://live-arn.twitch.tv/app"
                 },
                 {
+                    "name": "EU: Warsaw, Poland",
+                    "url": "rtmp://live-waw.twitch.tv/app"
+                },
+                {
                     "name": "South America: Argentina",
                     "url": "rtmp://live-eze.twitch.tv/app"
                 },
@@ -313,20 +317,28 @@
             "name": "Restream.io",
             "servers": [
                 {
-                    "name": "EU Primary",
+                    "name": "EU-West (Amsterdam, NL)",
+                    "url": "rtmp://eu-ams.restream.io/live"
+                },
+                {
+                    "name": "EU-Central (Frankfurt, DE)",
                     "url": "rtmp://eu.restream.io/live"
                 },
                 {
-                    "name": "EU Secondary",
-                    "url": "rtmp://eu-secondary.restream.io/live"
-                },
-                {
-                    "name": "US West",
+                    "name": "US-West (San Jose, CA)",
                     "url": "rtmp://us-west.restream.io/live"
                 },
                 {
-                    "name": "US East",
+                    "name": "US-West (Los Angeles, CA)",
+                    "url": "rtmp://us-la.restream.io/live"
+                },
+                {
+                    "name": "US-East (Washington, DC)",
                     "url": "rtmp://us-east.restream.io/live"
+                },
+                {
+                    "name": "AU (Sydney)",
+                    "url": "rtmp://au.restream.io/live"
                 }
             ]
         },
